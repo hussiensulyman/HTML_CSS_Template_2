@@ -33,7 +33,7 @@ The landing page is built using semantic HTML5 markup, providing a solid foundat
 CSS3 is utilized extensively for styling and layout purposes, incorporating modern design trends and techniques to create visually appealing aesthetics.
 
 ## Project Outcome:
-The Responsive Landing Page developed by TechSpark serves as a testament to our proficiency in HTML and CSS, showcasing our ability to create impactful web experiences that resonate with target audiences. Whether viewed on desktop or mobile devices, the landing page delivers a seamless and engaging user experience, driving conversions and achieving desired business objectives.
+The Responsive Landing Page developed by me serves as a testament to my proficiency in HTML and CSS, showcasing our ability to create impactful web experiences that resonate with target audiences. Whether viewed on desktop or mobile devices, the landing page delivers a seamless and engaging user experience, driving conversions and achieving desired business objectives.
 
 ## Looking for a similar solution?
 If you're seeking a professional and experienced developer to develop a responsive landing page for your project or business, look no further than me. Contact me today to discuss your requirements and objectives, and let us help you bring your vision to life.
