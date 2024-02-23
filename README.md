@@ -1,8 +1,8 @@
-# HTML_CSS_Template_2: Responsive Landing Page Development
+# HTML_CSS_Template_1: Responsive Landing Page Development
 
 ## Project Description:
 
-The Responsive Landing Page project developed by TechSpark showcases our expertise in HTML and CSS to create a visually stunning and user-friendly web experience. Designed with a focus on responsiveness and modern aesthetics, this landing page serves as an effective platform for promoting products, services, or campaigns.
+The Responsive Landing Page project developed showcases my expertise in HTML and CSS to create a visually stunning and user-friendly web experience. Designed with a focus on responsiveness and modern aesthetics, this landing page serves as an effective platform for promoting products, services, or campaigns.
 
 ## Key Features:
 
@@ -36,7 +36,7 @@ CSS3 is utilized extensively for styling and layout purposes, incorporating mode
 The Responsive Landing Page developed by TechSpark serves as a testament to our proficiency in HTML and CSS, showcasing our ability to create impactful web experiences that resonate with target audiences. Whether viewed on desktop or mobile devices, the landing page delivers a seamless and engaging user experience, driving conversions and achieving desired business objectives.
 
 ## Looking for a similar solution?
-If you're seeking a professional and experienced team to develop a responsive landing page for your project or business, look no further than TechSpark. Contact us today to discuss your requirements and objectives, and let us help you bring your vision to life.
+If you're seeking a professional and experienced developer to develop a responsive landing page for your project or business, look no further than me. Contact me today to discuss your requirements and objectives, and let us help you bring your vision to life.
 
 ## DEMO Link
 [Click here to view the demo](https://hussiensulyman.github.io/HTML_CSS_Template_2/)
